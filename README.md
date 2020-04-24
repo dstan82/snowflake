@@ -1,0 +1,2 @@
+# snowflake
+draw simple snowflake
